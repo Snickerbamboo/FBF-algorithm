@@ -1,4 +1,10 @@
 # FBF-algorithm
+environment
+-------
+eclipse
+jdk >= 1.8
+
+
 program
 ------
 <br>
